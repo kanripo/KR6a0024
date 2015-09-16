@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:22.384582
+#+DATE: 2015-08-30 19:28:25.855846
 #+TITLE: 起世經
 #+PROPERTY: CBETA_ID T01n0024
 #+PROPERTY: ID KR6a0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 024
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0024_T_007-0342b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《起世經》卷第七¶
+《起世經》卷第七¶
 ¶
 隋天竺三藏闍那崛多等譯¶
 
-:PROPERTIES:
-:head: 三十三天品第八之二
-:END:
-¶
+三十三天品第八之二¶
 
 「諸比丘！又何因緣，彼天有園，名為歡喜？諸¶
 比丘！彼歡喜園，三十三天王入其中已，坐¶
@@ -345,7 +341,7 @@
 
 「諸比丘！何等眾生，以觸為食？諸比丘！一切¶
 眾生，受卵生者，所謂鵝鴈鴻鶴、鷄鴨孔雀、鸚¶
-鵡鸜鵒、鳩鴿䴏雀、雉鵲烏等，及餘種種雜類¶
+鵡鸜鵒、鳩鴿[燕*鳥]雀、雉鵲烏等，及餘種種雜類¶
 眾生，從卵生者，以彼從卵而得身故，一切¶
 皆以觸為其食。何等眾生，以思為食？若有¶
 眾生，以意思惟，資潤諸根，增長身命，所謂¶
